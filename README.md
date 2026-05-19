@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=Githriff%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Programmer%20Learner%20from%20Indonesia&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=Githriff%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Programmer%20Learner%20from%20Indonesia&descAlignY=58&radius=40"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Githriff+Ahmad;Learning+Web+Development;Building+Useful+Projects" />
 
