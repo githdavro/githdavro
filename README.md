@@ -36,12 +36,28 @@ currently_learning:
 ## ⚡ Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,git,github,vscode&theme=dark" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 🏡 Village Website | Website profile desa |
+| 🐾 Animal Community Website | Community & adoption platform |
+| 🎨 UI/UX Improvement | Tailwind redesign & UX polishing |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -57,10 +73,22 @@ currently_learning:
 
 ---
 
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=githdavro&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
 </div>
 
 ---
@@ -68,7 +96,41 @@ currently_learning:
 ## 🐍 Contribution Snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/githdavro/githdavro/output/snake.svg" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/githdavro" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="https://www.facebook.com/githriff.nibross" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@gtriffahmad03" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://t.me/Fre1z4" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/gith.amd_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:githriffgresik@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
