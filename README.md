@@ -1,77 +1,109 @@
-<h1 align="center">Hi 👋, I'm Githriff</h1>
-<h3 align="center">Web Programmer Learner from Indonesia 🇮🇩</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/githdavro">
-    <img src="https://komarev.com/ghpvc/?username=githdavro&label=Profile%20views&color=0e75b6&style=flat" alt="githdavro" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Davro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Programmer%20Learner%20from%20Indonesia&descAlignY=55&descAlign=50"/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Davro;Learning+Web+Development;Building+Real+Projects)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=githdavro&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 
-- 🌱 Currently learning **Web Development**
-- 💻 Focused on building projects with **Native PHP & Laravel**
-- 🎯 Interested in **Frontend UI/UX** and **Backend Development**
-- 📚 Always exploring new technologies and improving coding skills
-- ⚡ Fun fact: I love turning ideas into real websites
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+```yaml
+name: Githriff
+role: Web Programmer Learner
+location: Indonesia
+learning:
+  - Web Development
+  - Native PHP
+  - Laravel
+  - UI/UX Design
+interests:
+  - Frontend Development
+  - Backend Development
+  - Database Management
+```
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" />
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql&theme=dark" />
 
-### Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 📌 Currently Working On
+# 📌 Current Projects
 
-- 🏡 Village Website Project
-- 🐾 Animal Community Website
-- 🎨 Improving UI/UX with Tailwind CSS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githdavro&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+- 🏡 **Village Website Project**
+- 🐾 **Animal Community Website**
+- 🎨 **UI/UX Improvement with Tailwind CSS**
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-<p>
-  <a href="https://github.com/githdavro">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=githdavro&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ <i>"Keep learning, keep building."</i> ✨
-</p>
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/githdavro/githdavro/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/githdavro">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning, Keep Building ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+
+</div>
