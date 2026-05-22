@@ -45,15 +45,15 @@ skills:
     - VS Code
     - Figma
 
-currently_learning:
-  - Advanced Laravel
-  - UI/UX Design
-  - REST API Development
-  - Clean Code Architecture
-
-possibly learning on the future:
-  - Advanced React
-  - Fllutter
+  currently learning:
+    - Advanced Laravel
+    - UI/UX Design
+    - REST API Development
+    - Clean Code Architecture
+  
+  possibly learning on the future:
+    - Advanced React
+    - Fllutter
 
 ```
 
