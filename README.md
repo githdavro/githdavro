@@ -18,19 +18,38 @@
 
 ```yaml
 name: Githriff Ahmad
-role: Web Programmer Learner
-location: Indonesia
+title: Junior Web Developer
+location: Indonesia 🇮🇩
 
-focus:
-  - Frontend Development
-  - Backend Development
-  - Database Management
+about:
+  passion: Crafting clean and modern web experiences
+  mindset: Learning something new every day
+  goal: Becoming a professional full-stack developer
+
+skills:
+  frontend:
+    - HTML5
+    - CSS3
+    - JavaScript
+    - Tailwind CSS
+
+  backend:
+    - Native PHP
+    - Laravel
+    - MySQL
+
+  tools:
+    - Git & GitHub
+    - VS Code
+    - Figma
 
 currently_learning:
-  - Native PHP
-  - Laravel
-  - Tailwind CSS
+  - Advanced Laravel
   - UI/UX Design
+  - REST API Development
+  - Clean Code Architecture
+
+motto: "Code • Learn • Improve • Repeat 🚀"
 ```
 
 ---
@@ -110,28 +129,28 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/githdavro" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://www.facebook.com/githriff.nibross" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+  <a href="https://www.facebook.com/githriff.nibross" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-<a href="https://www.youtube.com/@gtriffahmad03" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+  <a href="https://www.youtube.com/@gtriffahmad03" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 
-<a href="https://t.me/Fre1z4" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  <a href="https://t.me/Fre1z4" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 
-<a href="https://instagram.com/gith.amd_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <a href="https://instagram.com/gith.amd_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<a href="mailto:githriffgresik@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:githriffgresik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
