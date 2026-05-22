@@ -31,10 +31,12 @@ skills:
     - HTML5
     - CSS3
     - JavaScript
+    - Bootstrap
     - Tailwind CSS
 
   backend:
     - Native PHP
+    - Code Igniter
     - Laravel
     - MySQL
 
@@ -49,7 +51,10 @@ currently_learning:
   - REST API Development
   - Clean Code Architecture
 
-motto: "Code • Learn • Improve • Repeat 🚀"
+possibly learning on the future:
+  - Advanced React
+  - Fllutter
+
 ```
 
 ---
