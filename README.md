@@ -59,11 +59,16 @@ skills:
 
 ---
 
+
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,codeigniter,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="50" />
 
 </div>
 
