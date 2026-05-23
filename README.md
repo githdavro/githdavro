@@ -63,7 +63,7 @@ skills:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,codeigniter,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
