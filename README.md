@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=blur&height=220&text=GithDavro&fontSize=48&fontColor=ffffff&color=gradient&customColorList=6,11,20,24&animation=fadeIn&desc=Junior%20Web%20Developer%20from%20Indonesia&descAlignY=62&descSize=18&radius=50&font=Orbitron"
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&text=GitDavro&fontSize=48&fontColor=ffffff&color=gradient&customColorList=6,11,20,24&animation=fadeIn&desc=Junior%20Web%20Developer%20from%20Indonesia&descAlignY=62&descSize=18&radius=50&font=Orbitron"
 />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Githriff+Ahmad;React+%7C+Laravel+Developer;Building+Modern+Web+Applications;Always+Learning+New+Things" />
@@ -82,7 +82,7 @@ skills:
 
 | Project | Description |
 |---------|-------------|
-| 🐾 Animal Community Website | Community, adoption & event platform |
+| 🐾 Exotic Pet World | Community, adoption & event platform |
 | 🏡 Website Desa | Village profile & public information system |
 | 🎨 UI/UX Improvement | Modern UI redesign with Tailwind CSS |
 
