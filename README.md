@@ -95,13 +95,13 @@ skills:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+  src="./stats.svg"
   height="180"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+  src="./top-langs.svg"
   height="180"
   alt="Top Languages"
 />
@@ -109,7 +109,7 @@ skills:
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=githdavro&theme=tokyonight&hide_border=true&background=00000000"
+  src="./streak.svg"
   width="70%"
   alt="GitHub Streak"
 />
@@ -123,7 +123,7 @@ skills:
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=6"
+  src="./trophy.svg"
   alt="GitHub Trophy"
 />
 
