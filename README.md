@@ -94,31 +94,25 @@ skills:
 
 <div align="center">
 
-<a href="https://github.com/githdavro">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<a href="https://github.com/githdavro">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+  height="180"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<a href="https://github.com/githdavro">
-  <img 
-    width="70%"
-    src="https://streak-stats.demolab.com?user=githdavro&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800"
-    alt="GitHub Streak"
-  />
-</a>
+<img
+  src="https://streak-stats.demolab.com/?user=githdavro&theme=tokyonight&hide_border=true&background=00000000"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -128,13 +122,12 @@ skills:
 
 <div align="center">
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2"
+<img
+  src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=6"
   alt="GitHub Trophy"
 />
 
 </div>
-
 ---
 
 ## 📈 Activity Graph
