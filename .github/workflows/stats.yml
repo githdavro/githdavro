@@ -9,39 +9,29 @@ permissions:
   contents: write
 
 jobs:
-  stats:
+  generate-stats:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github
-          path: images/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate stats.svg
+        run: |
+          curl -L \
+            "https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&include_all_commits=true&count_private=true&theme=default" \
+            -o stats.svg
 
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000
-          path: images/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit generated stats
+      - name: Commit and push stats.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add images/stats.svg images/top-langs.svg
+          git add stats.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to stats.svg"
           else
-            git commit -m "chore: update github stats"
+            git commit -m "chore: update GitHub stats"
             git push
           fi
