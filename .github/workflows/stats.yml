@@ -1,4 +1,4 @@
-name: GitHub Stats
+name: Generate GitHub Stats
 
 on:
   schedule:
@@ -13,8 +13,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: githdavro
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github
+          path: images/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000
+          path: images/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add images/stats.svg images/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update github stats"
+            git push
+          fi
