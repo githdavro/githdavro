@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+<pre>
 name: Githriff Ahmad
 title: Junior Web Developer
 location: Indonesia 🇮🇩
@@ -58,7 +58,7 @@ skills:
 
   possibly learning in the future:
     - Flutter
-```
+</pre>
 
 ---
 
@@ -94,13 +94,31 @@ skills:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=1800"/>
+<a href="https://github.com/githdavro">
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=githdavro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"/>
+<a href="https://github.com/githdavro">
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=githdavro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</a>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=githdavro&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800"/>
+<a href="https://github.com/githdavro">
+  <img 
+    width="70%"
+    src="https://streak-stats.demolab.com?user=githdavro&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
 
@@ -110,7 +128,10 @@ skills:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophy"/>
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=githdavro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2"
+  alt="GitHub Trophy"
+/>
 
 </div>
 
@@ -120,7 +141,10 @@ skills:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=githdavro&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=githdavro&theme=tokyo-night&hide_border=true&bg_color=00000000"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -131,9 +155,18 @@ skills:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/githdavro/githdavro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/githdavro/githdavro/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/githdavro/githdavro/output/github-contribution-grid-snake.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/githdavro/githdavro/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/githdavro/githdavro/output/github-contribution-grid-snake.svg"
+  >
+  <img 
+    alt="GitHub Contribution Snake" 
+    src="https://raw.githubusercontent.com/githdavro/githdavro/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
@@ -145,27 +178,27 @@ skills:
 <div align="center">
 
 <a href="https://github.com/githdavro" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/githriff.nibross" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@gtriffahmad03" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://t.me/Fre1z4" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/gith.amd_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:githriffgresik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -176,6 +209,8 @@ skills:
 
 ### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"
+/>
 
 </div>
