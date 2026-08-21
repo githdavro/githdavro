@@ -2,37 +2,36 @@ name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 1 * * 0"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  trophy:
+  generate-trophy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Trophy
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: 'username=githdavro&theme=tokyonight&column=6&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true'
-          path: images/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate trophy.svg
+        run: |
+          curl -L \
+            "https://github-profile-trophy.vercel.app/?username=githdavro&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" \
+            -o trophy.svg
 
-      - name: Commit Trophy
+      - name: Commit and push trophy.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add images/trophy.svg
+          git add trophy.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to trophy.svg"
           else
-            git commit -m "chore: update github trophy"
+            git commit -m "chore: update GitHub trophy"
             git push
           fi
